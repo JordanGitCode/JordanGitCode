@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: A full-stack Angular/.NET 8 Web API project with a database backend.<br>👯 I’m looking to collaborate on: Web-based applications that merge business logic with modern UI/UX.<br>🤝 I’m looking for help with: Optimizing database source control in team environments.<br>🌱 I’m currently learning: Advanced Angular patterns, .NET 8 API development and database normalization.<br>💬 Ask me about: Data-driven app development or how to bring an idea to life using full-stack technologies.<br>⚡ Fun fact: I combine tech, and business strategy to create unique digital experiences
+🔭 I’m currently working on: A full-stack Angular/.NET 8 Web API project<br>👯 I’m looking to collaborate on: Web-based applications that merge business logic with modern UI/UX.<br>🤝 I’m looking for help with: Optimizing database source control in team environments.<br>🌱 I’m currently learning: Advanced Angular patterns, .NET 8 API development and database normalization.<br>💬 Ask me about: Data-driven app development or how to bring an idea to life using full-stack technologies.<br>⚡ Fun fact: I combine tech, and business strategy to create unique digital experiences
 
 
 ## 🌐 Socials:
